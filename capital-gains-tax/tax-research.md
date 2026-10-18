@@ -62,3 +62,17 @@ For each legal question:
 Finding an official tax guide does not mean that the tax calculations have been verified.
 
 The applicable rules, deductions, and tax rates must be reviewed for each hypothetical sale scenario before the results can be considered reliable.
+
+
+## Capital Gains Tax Calculation Flow
+
+Based on the National Tax Service guidance, the general calculation process is:
+
+1. Determine the transfer price.
+2. Subtract the acquisition price and eligible deductible expenses to calculate the capital gain.
+3. Determine whether any applicable deductions or exemptions are available.
+4. Calculate the taxable base after applicable deductions.
+5. Apply the relevant tax rates and calculate the tax liability.
+6. Include applicable local income tax and other relevant adjustments.
+
+**Research note:** This is a general calculation framework. The applicable deductions, tax rates, and special rules must be verified for each property and hypothetical sale date.
