@@ -91,17 +91,26 @@ This estimate is taken from the 2027 column of the calculator screen. The deduct
 
 ## 5. Preliminary Strategy Comparison
 
-| Metric | Strategy A | Strategy B |
+| Item | Strategy A | Strategy B |
 |---|---:|---:|
-| First Property Sold | Hillstate | Jungang Heights |
-| First Sale Year | 2026 | 2026 |
-| Second Property Sold | Jungang Heights | Hillstate |
-| Second Sale Year | 2027 | 2027 |
-| Combined Calculator-Estimated Tax | KRW 1,763,905,600 | KRW 1,903,081,400 |
+| First property sold in 2026 | Hillstate | Jungang Heights |
+| Estimated tax on first sale | KRW 1,372,591,000 | KRW 1,229,591,000 |
+| Second property sold in 2027 | Jungang Heights | Hillstate |
+| Estimated tax on second sale | KRW 391,314,600 | KRW 673,490,400 |
+| **Estimated combined tax** | **KRW 1,763,905,600** | **KRW 1,903,081,400** |
 
-Based on these displayed calculator estimates, Strategy B is KRW 139,175,800 higher than Strategy A.
+### Preliminary Findings
 
-This is an arithmetic comparison of preliminary outputs, not a verified estimate of tax savings. The tax settings and eligibility assumptions must be checked before drawing a conclusion.
+Based on the current calculator outputs, Strategy A has an estimated combined tax that is KRW 139,175,800 lower than Strategy B.
+
+However, these results are preliminary. The tax calculations may use different tax treatments or assumptions. The applicable tax treatment for each sale year must be verified before drawing a final conclusion.
+
+### Key Limitations
+
+- The estimates depend on the property details and assumptions entered into the tax calculator.
+- Eligibility for single-household, single-home tax treatment and long-term holding deductions has not been independently verified.
+- The impact of multiple-home ownership rules and any applicable exemptions or transitional provisions requires further review.
+- These figures are estimates for research purposes and are not professional tax advice.
 
 ## 6. Limitations
 
