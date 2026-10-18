@@ -101,9 +101,11 @@ This estimate is taken from the 2027 column of the calculator screen. The deduct
 
 ### Preliminary Findings
 
-Based on the current calculator outputs, Strategy A has an estimated combined tax that is KRW 139,175,800 lower than Strategy B.
+Based on the current tax calculator outputs and the assumptions used in this analysis, Strategy A has an estimated combined capital gains tax of KRW 1,763,905,600, compared with KRW 1,903,081,400 under Strategy B.
 
-However, these results are preliminary. The tax calculations may use different tax treatments or assumptions. The applicable tax treatment for each sale year must be verified before drawing a final conclusion.
+Strategy A therefore shows an estimated tax advantage of KRW 139,175,800.
+
+This finding is based on calculator estimates and the stated scenario assumptions. Actual tax liability may differ depending on the tax rules applicable to each sale date and the taxpayer's eligibility for relevant deductions or exemptions.
 
 ### Key Limitations
 
@@ -130,11 +132,19 @@ However, these results are preliminary. The tax calculations may use different t
 4. Compare verified estimated tax and combined after-tax proceeds.
 5. Update the conclusion when the analysis is complete.
 
-## 8. Conclusion
+## Conclusion
 
-The preliminary calculator outputs show a difference between the two sale sequences. Strategy A currently has the lower sum of displayed tax estimates, but the comparison is not conclusive because the tax assumptions have not been independently verified.
+Based on the current estimates, Strategy A results in a lower combined capital gains tax than Strategy B by KRW 139,175,800.
 
-No final recommendation is made at this stage.
+This analysis demonstrates how the order and timing of property sales can affect estimated tax outcomes.
+
+Before making an actual sale decision, the applicable tax treatment, deductions, and eligibility requirements should be verified for each sale date.
+
+## Next Steps
+
+- Verify the applicable tax treatment for each property sale.
+- Review the assumptions and limitations of the calculator estimates.
+- Refine the comparison if verified tax rules change the estimated results.
 
 ## Disclaimer
 
