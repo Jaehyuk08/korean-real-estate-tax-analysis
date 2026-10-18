@@ -2,44 +2,52 @@
 
 ## Project Overview
 
-This independent research project compares different strategies for managing and transferring residential real estate in South Korea.
+This independent research project analyzes the tax implications and financial outcomes of different residential real estate strategies in South Korea.
 
-The project examines the potential tax and financial implications of selling, gifting, or continuing to hold residential properties.
+The project focuses on comparing property sales, property gifting, and long-term ownership to understand how different decisions may affect overall tax costs and after-tax wealth.
 
-## Research Modules
+## Research Objectives
 
-### 1. Capital Gains Tax
-Analyze hypothetical property sales, estimate capital gains tax, and compare alternative sale sequences.
+- Analyze capital gains tax under different property sale scenarios.
+- Compare the financial implications of selling properties in different sequences.
+- Research gift tax implications when transferring property from a parent to a child.
+- Examine recurring property holding taxes.
+- Compare estimated tax costs and after-tax financial outcomes across different strategies.
 
-### 2. Gift Tax and Property Transfer
-Explore the tax implications and related costs of transferring property from a parent to a child.
+## Project Modules
 
-### 3. Property Holding Taxes
-Estimate recurring property taxes, including property tax and comprehensive real estate holding tax, under relevant assumptions.
+### 1. Capital Gains Tax Analysis
+Compare two hypothetical sale strategies: selling Hillstate first or Jungang Heights first.
+
+### 2. Gift Tax Analysis
+Research the potential tax implications of transferring residential property to a family member.
+
+### 3. Property Holding Tax Analysis
+Examine property tax and comprehensive real estate holding tax under relevant assumptions.
 
 ### 4. Scenario Comparison
-Compare the estimated tax costs and after-tax financial outcomes of selling, gifting, and holding property.
+Compare selling, gifting, and holding strategies to evaluate their potential financial outcomes.
 
 ## Methodology
 
-- Research applicable official Korean tax rules.
+- Research applicable Korean tax laws and official guidance.
 - Document assumptions and data sources.
-- Build and compare hypothetical scenarios.
-- Distinguish official rules, calculator estimates, and independent calculations.
-- Evaluate limitations and uncertainties.
+- Organize property information and scenario inputs.
+- Calculate and compare estimated tax outcomes.
+- Identify limitations and factors that may affect the results.
 
 ## Tools
 
-- GitHub for documentation and version control
-- Excel for calculations and scenario analysis
-- Official Korean tax guidance
+- GitHub for project documentation and version control
+- Excel for financial calculations and scenario comparisons
+- Official Korean tax resources for research
 
-## Current Status
+## Project Status
 
-Module 1: Capital Gains Tax — In progress.
+**Current focus:** Capital Gains Tax Analysis
 
-Other modules are planned.
+Other modules will be developed as the research progresses.
 
 ## Disclaimer
 
-This is an educational research project, not professional tax or legal advice. Results depend on applicable regulations and individual circumstances. No personal or confidential information will be published.
+This project is for educational and portfolio purposes only. It does not constitute professional tax, legal, or financial advice. All scenarios and estimates are subject to applicable laws, assumptions, and individual circumstances.
