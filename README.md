@@ -1,45 +1,55 @@
-# korean-real-estate-tax-analysis
-Independent case study of Korean real estate capital gains tax estimation.
+Korean Real Estate Tax & Wealth Transfer Analysis
 
+Project Overview
 
-# Korean Real Estate Capital Gains Tax Case Study
+This independent research project compares different strategies for managing and transferring residential real estate in South Korea.
 
-## Overview
+The project examines the potential tax and financial implications of selling, gifting, or continuing to hold residential properties.
 
-This independent project explores the process of estimating capital gains tax on real estate in South Korea.
+Research Modules
 
-The project is based on my experience using an online tax calculator and aims to develop a better understanding of the information required, the relevant tax rules, and the factors that may affect estimated tax liability.
+1. Capital Gains Tax
 
-Objectives
+Analyze hypothetical property sales, estimate capital gains tax, and compare alternative sale sequences.
 
-- Document the tax estimation process.
-- Identify the key inputs required for an estimate.
-- Review relevant official tax guidance.
-- Explore how different assumptions may affect estimated results.
-- Communicate findings clearly in English.
+2. Gift Tax and Property Transfer
 
-Planned Work
+Explore the tax implications and related costs of transferring property from a parent to a child.
 
-1. Document the calculation process.
-2. Review official tax guidance.
-3. Develop hypothetical case scenarios.
-4. Compare estimates under different assumptions.
-5. Summarize findings and limitations.
+3. Property Holding Taxes
+
+Estimate recurring property taxes, including property tax and comprehensive real estate holding tax, under relevant assumptions.
+
+4. Scenario Comparison
+
+Compare the estimated tax costs and after-tax financial outcomes of selling, gifting, and holding property.
+
+Methodology
+
+Research applicable official Korean tax rules.
+
+Document assumptions and data sources.
+
+Build and compare hypothetical scenarios.
+
+Distinguish official rules, calculator estimates, and independent calculations.
+
+Evaluate limitations and uncertainties.
 
 Tools
 
-- GitHub
-- Official Korean tax guidance
-- Excel (planned, if useful)
+GitHub for documentation and version control
 
-Scope and Limitations
+Excel for calculations and scenario analysis
 
-This is an educational case study, not professional tax advice.
+Official Korean tax guidance
 
-The project does not claim to implement an independent tax calculation engine. Any calculator estimates will be distinguished from independently verified calculations.
+Current Status
 
-Personal and confidential information will not be published.
+Module 1: Capital Gains Tax — In progress.
 
-## Status
+Other modules are planned.
 
-In progress.
+Disclaimer
+
+This is an educational research project, not professional tax or legal advice. Results depend on applicable regulations and individual circumstances. No personal or confidential information will be published.
