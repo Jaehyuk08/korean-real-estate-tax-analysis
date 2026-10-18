@@ -2,10 +2,10 @@
 
 ## 1. Objective
 
-This project compares two hypothetical property sale sequences in South Korea to examine how sale order may affect capital gains tax and combined after-tax proceeds.
+This project compares two hypothetical property sale sequences in South Korea to examine how sale order and timing may affect capital gains tax and combined after-tax proceeds.
 
-- **Strategy A:** Sell Hillstate first, then Jungang Heights.
-- **Strategy B:** Sell Jungang Heights first, then Hillstate.
+- **Strategy A:** Sell Hillstate in 2026, then Jungang Heights in 2027.
+- **Strategy B:** Sell Jungang Heights in 2026, then Hillstate in 2027.
 
 The calculator outputs are preliminary estimates and have not been independently verified.
 
@@ -23,11 +23,9 @@ The calculator outputs are preliminary estimates and have not been independently
 
 ## 3. Strategy A: Sell Hillstate First
 
-### Step 1: Sell Hillstate
+### Step 1: Hillstate — 2026
 
-The first property sold is Hillstate.
-
-| Item | Calculator Input or Result |
+| Item | Value |
 |---|---:|
 | Sale Price | KRW 4,000,000,000 |
 | Acquisition Price | KRW 1,360,000,000 |
@@ -35,135 +33,100 @@ The first property sold is Hillstate.
 | Calculated Capital Gain | KRW 2,630,000,000 |
 | Calculator-Estimated Total Tax | KRW 1,372,591,000 |
 
-The calculator displays a multi-home surcharge-related tax treatment and a rate of 45% plus an additional 5 percentage points.
+The calculator displays a tax rate of 45% plus an additional 5 percentage points under its selected tax settings.
 
-### Step 2: Sell Jungang Heights
+### Step 2: Jungang Heights — 2027
 
-After the Hillstate sale, the calculator assumes that the household qualifies for single-household, single-home treatment when Jungang Heights is sold.
-
-| Item | Calculator Input or Result |
+| Item | Value |
 |---|---:|
 | Sale Price | KRW 2,750,000,000 |
 | Acquisition Price | KRW 370,000,000 |
 | Assumed Deductible Expenses | KRW 10,000,000 |
 | Calculated Capital Gain | KRW 2,370,000,000 |
-| Taxable Capital Gain Displayed | KRW 1,335,818,182 |
-| Long-Term Holding Deduction Displayed | 30% |
-| Tax Rate Displayed | 42% |
 | Calculator-Estimated Total Tax | KRW 391,314,600 |
 
-The assumed single-household, single-home treatment and deduction eligibility have not yet been independently verified.
+This estimate comes from the calculator screen showing a 30% long-term holding deduction and a 42% tax rate. The applicable treatment and eligibility have not been independently verified.
 
-### Step 3: Preliminary Combined Result
+### Strategy A — Preliminary Total
 
-| Metric | Strategy A |
+| Metric | Amount |
 |---|---:|
 | Hillstate Estimated Tax | KRW 1,372,591,000 |
 | Jungang Heights Estimated Tax | KRW 391,314,600 |
-| **Combined Calculator-Estimated Tax** | **KRW 1,763,905,600** |
+| **Combined Estimated Tax** | **KRW 1,763,905,600** |
 
-The combined amount is the arithmetic sum of the two displayed calculator estimates. It is not a verified final tax liability.
+## 4. Strategy B: Sell Jungang Heights First
 
-## 4. Interpretation
-
-Under the calculator assumptions entered for Strategy A, the combined estimated tax is KRW 1,763,905,600.
-
-This result depends on the tax treatment assumed for each sale. In particular, the eligibility for single-household, single-home treatment on the second sale must be confirmed before drawing a conclusion.
-
-## 5. Limitations and Verification
-
-- Sale prices and deductible expenses are assumptions.
-- Both properties are assumed to be in designated regulated areas.
-- The owner is assumed never to have resided in either property.
-- The calculator's multi-home surcharge treatment has not been independently verified.
-- Eligibility for single-household, single-home treatment and the long-term holding deduction has not been independently verified.
-- The sale dates and applicable tax rules must be confirmed for both transactions.
-- The calculator outputs should not be treated as professional tax advice.
-
-## 6. Status
-
-**Strategy A:** Preliminary calculator results recorded.
-
-**Next step:** Complete Strategy B using the same property assumptions and a clearly documented tax-treatment framework, then compare the two strategies.
-
-## Disclaimer
-
-This project is for educational and portfolio purposes only. It does not constitute professional tax, legal, or financial advice.
-
-
-## Strategy B: Sell Jungang Heights First
-
-### Step 1: Sell Jungang Heights
+### Step 1: Jungang Heights — 2026
 
 | Item | Value |
 |---|---:|
-| Assumed Sale Price | KRW 2,750,000,000 |
+| Sale Price | KRW 2,750,000,000 |
 | Acquisition Price | KRW 370,000,000 |
 | Assumed Deductible Expenses | KRW 10,000,000 |
 | Calculated Capital Gain | KRW 2,370,000,000 |
 | Calculator-Estimated Total Tax | KRW 1,229,591,000 |
 
-The calculator displays a multi-home surcharge-related tax treatment. The applicable tax treatment requires verification.
+The calculator displays a multi-home surcharge-related tax treatment. The applicable treatment must be verified.
 
-### Step 2: Sell Hillstate
+### Step 2: Hillstate — 2027
 
 | Item | Value |
 |---|---:|
-| Assumed Sale Price | KRW 4,000,000,000 |
+| Sale Price | KRW 4,000,000,000 |
 | Acquisition Price | KRW 1,360,000,000 |
 | Assumed Deductible Expenses | KRW 10,000,000 |
 | Calculated Capital Gain | KRW 2,630,000,000 |
-| Calculator-Estimated Total Tax | KRW 691,716,300 |
+| Calculator-Estimated Total Tax | KRW 673,490,400 |
 
-The calculator's high-value property calculation and deduction assumptions must be verified for this scenario.
+This estimate is taken from the 2027 column of the calculator screen. The deduction and tax treatment must be verified for this scenario.
 
-### Step 3: Preliminary Combined Result
+### Strategy B — Preliminary Total
 
-| Metric | Strategy B |
+| Metric | Amount |
 |---|---:|
 | Jungang Heights Estimated Tax | KRW 1,229,591,000 |
-| Hillstate Estimated Tax | KRW 691,716,300 |
-| **Combined Calculator-Estimated Tax** | **KRW 1,921,307,300** |
+| Hillstate Estimated Tax | KRW 673,490,400 |
+| **Combined Estimated Tax** | **KRW 1,903,081,400** |
 
-This is the arithmetic sum of the two calculator estimates, not a verified final tax liability.
+## 5. Preliminary Strategy Comparison
 
-### Limitations
-
-- The tax assumptions for both sales must be verified.
-- Eligibility for deductions and any applicable multi-home surcharge must be confirmed.
-- The combined estimate is preliminary.
-
-**Status:** Preliminary calculator results recorded.
-
-
-## Strategy Comparison and Preliminary Conclusion
-
-### 1. Combined Tax Comparison
-
-| Metric | Strategy A: Hillstate First | Strategy B: Jungang Heights First |
+| Metric | Strategy A | Strategy B |
 |---|---:|---:|
-| Hillstate Estimated Tax | KRW 1,372,591,000 | KRW 691,716,300 |
-| Jungang Heights Estimated Tax | KRW 391,314,600 | KRW 1,229,591,000 |
-| **Combined Calculator-Estimated Tax** | **KRW 1,763,905,600** | **KRW 1,921,307,300** |
+| First Property Sold | Hillstate | Jungang Heights |
+| First Sale Year | 2026 | 2026 |
+| Second Property Sold | Jungang Heights | Hillstate |
+| Second Sale Year | 2027 | 2027 |
+| Combined Calculator-Estimated Tax | KRW 1,763,905,600 | KRW 1,903,081,400 |
 
-### 2. Difference Between Strategies
+Based on these displayed calculator estimates, Strategy B is KRW 139,175,800 higher than Strategy A.
 
-Based on the current calculator outputs, Strategy B has a combined estimated tax that is KRW 157,401,700 higher than Strategy A.
+This is an arithmetic comparison of preliminary outputs, not a verified estimate of tax savings. The tax settings and eligibility assumptions must be checked before drawing a conclusion.
 
-This is an arithmetic comparison of the displayed estimates only. The results use different tax-treatment assumptions and have not been independently verified, so the difference should not be interpreted as a reliable estimate of the tax savings from choosing Strategy A.
+## 6. Limitations
 
-### 3. Preliminary Observations
+- Sale prices and deductible expenses are assumptions.
+- Both properties are assumed to be in designated regulated areas.
+- The owner is assumed never to have resided in either property.
+- Tax treatment may change after the first property is sold.
+- Eligibility for deductions, exemptions, and multi-home surcharge treatment has not been independently verified.
+- The estimates do not establish which strategy is legally or financially preferable.
+- Combined after-tax proceeds have not yet been fully calculated.
 
-- Strategy A has the lower combined calculator-estimated tax in the current set of results.
-- Strategy B produces a different estimate because the calculator applies different tax treatment to the properties in the two scenarios.
-- The comparison is not yet conclusive because the assumptions have not been standardized and verified.
+## 7. Next Steps
 
-### 4. Conclusion
+1. Verify the calculator assumptions for each sale.
+2. Confirm which deductions and tax rates apply in 2026 and 2027.
+3. Recalculate both strategies using consistent assumptions.
+4. Compare verified estimated tax and combined after-tax proceeds.
+5. Update the conclusion when the analysis is complete.
 
-The preliminary calculator outputs show a difference between the two property sale sequences. However, no final recommendation can be made until both strategies are recalculated using consistent assumptions and the applicable tax rules are verified for each sale.
+## 8. Conclusion
 
-The next step is to standardize the tax treatment, deduction eligibility, and hypothetical sale dates for both strategies, then compare combined estimated tax and after-tax proceeds.
+The preliminary calculator outputs show a difference between the two sale sequences. Strategy A currently has the lower sum of displayed tax estimates, but the comparison is not conclusive because the tax assumptions have not been independently verified.
 
-### 5. Status
+No final recommendation is made at this stage.
 
-**Preliminary comparison completed. Final conclusion pending verification.**
+## Disclaimer
+
+This project is for educational and portfolio purposes only. It does not constitute professional tax, legal, or financial advice.
