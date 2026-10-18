@@ -76,3 +76,31 @@ Based on the National Tax Service guidance, the general calculation process is:
 6. Include applicable local income tax and other relevant adjustments.
 
 **Research note:** This is a general calculation framework. The applicable deductions, tax rates, and special rules must be verified for each property and hypothetical sale date.
+
+## Long-Term Holding Special Deduction Research
+
+### Preliminary Findings
+
+The reviewed tax reform proposal distinguishes between:
+- Single-household, single-home owners.
+- Owners of multiple homes.
+- Different hypothetical sale years.
+
+The proposal also indicates that residence history may affect deduction eligibility and rates.
+
+### Application to This Project
+
+Both Hillstate and Jungang Heights are assumed to be in designated regulated areas, and the owner has never resided in either property.
+
+Therefore, the single-home residence-based deduction rates shown in the reference material will not automatically be applied to these scenarios.
+
+### Verification Required
+
+- Confirm the deduction rules applicable on each hypothetical sale date.
+- Determine whether the multi-home capital gains tax surcharge applies.
+- Verify whether the long-term holding special deduction is available under the applicable rules.
+- Distinguish announced proposals from enacted and effective legislation.
+
+**Status:** Preliminary research completed; applicable deduction rules not yet verified.
+
+**Source note:** The reviewed material is a 2026 tax reform proposal and may change during the legislative process. It should not be treated as final law without further confirmation.
