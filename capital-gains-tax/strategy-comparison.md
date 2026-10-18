@@ -107,13 +107,6 @@ Strategy A therefore shows an estimated tax advantage of KRW 139,175,800.
 
 This finding is based on calculator estimates and the stated scenario assumptions. Actual tax liability may differ depending on the tax rules applicable to each sale date and the taxpayer's eligibility for relevant deductions or exemptions.
 
-### Key Limitations
-
-- The estimates depend on the property details and assumptions entered into the tax calculator.
-- Eligibility for single-household, single-home tax treatment and long-term holding deductions has not been independently verified.
-- The impact of multiple-home ownership rules and any applicable exemptions or transitional provisions requires further review.
-- These figures are estimates for research purposes and are not professional tax advice.
-
 ## 6. Limitations
 
 - Sale prices and deductible expenses are assumptions.
@@ -140,11 +133,6 @@ This analysis demonstrates how the order and timing of property sales can affect
 
 Before making an actual sale decision, the applicable tax treatment, deductions, and eligibility requirements should be verified for each sale date.
 
-## Next Steps
-
-- Verify the applicable tax treatment for each property sale.
-- Review the assumptions and limitations of the calculator estimates.
-- Refine the comparison if verified tax rules change the estimated results.
 
 ## Disclaimer
 
