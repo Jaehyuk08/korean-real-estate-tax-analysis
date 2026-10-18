@@ -31,9 +31,25 @@ Additional information about household property ownership and applicable tax rul
 
 ## Results
 
-Analysis in progress.
+Two hypothetical property sale strategies have been compared using preliminary tax calculator outputs.
+
+- Strategy A: Estimated combined tax of KRW 1,763,905,600.
+- Strategy B: Estimated combined tax of KRW 1,903,081,400.
+- Preliminary difference: KRW 139,175,800 lower under Strategy A.
+
+These results have not been independently verified and should not be treated as confirmed tax liabilities.
+
+Detailed calculations are available in [Strategy Comparison](strategy-comparison.md).
 
 ## Sources
+
+- [National Tax Service](https://www.nts.go.kr/)
+
+Official tax rules and eligibility requirements remain subject to verification.
+
+## Status
+
+Preliminary scenario comparison completed. Tax-rule verification and after-tax proceeds analysis remain in progress.
 
 Official Korean tax guidance and applicable legislation will be documented during the analysis.
 
