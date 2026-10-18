@@ -52,7 +52,3 @@ Official tax rules and eligibility requirements remain subject to verification.
 Preliminary scenario comparison completed. Tax-rule verification and after-tax proceeds analysis remain in progress.
 
 Official Korean tax guidance and applicable legislation will be documented during the analysis.
-
-## Status
-
-In progress.
