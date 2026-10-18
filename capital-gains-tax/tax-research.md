@@ -18,13 +18,11 @@ The purpose is to identify the rules that must be verified before comparing the 
 
 **Application to this project:** The single-family-home calculation must not automatically be applied to either property while the household owns multiple homes. Eligibility must be verified first.
 
-### Source 2: Korean Law Information Center — Income Tax Act, Article 104
+## Source 2: National Tax Service — Capital Gains Tax Guidance
 
-- Website: https://www.law.go.kr/lsLinkCommonInfo.do?chrClsCd=010202&lsJoLnkSeq=1031989291
-- Research focus:
-  - Capital gains tax rates.
-  - Rules concerning certain homes in designated regulated areas.
-  - Additional tax rates and applicable exceptions.
+URL: https://www.nts.go.kr/
+
+Purpose: Additional official guidance on capital gains tax rules, filing, deductions, and relevant exceptions.
 
 **Application to this project:** Verify the version of Article 104 effective on each hypothetical sale date and determine whether the relevant multi-home provisions apply.
 
