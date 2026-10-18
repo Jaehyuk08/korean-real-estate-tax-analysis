@@ -134,3 +134,36 @@ This is the arithmetic sum of the two calculator estimates, not a verified final
 - The combined estimate is preliminary.
 
 **Status:** Preliminary calculator results recorded.
+
+
+## Strategy Comparison and Preliminary Conclusion
+
+### 1. Combined Tax Comparison
+
+| Metric | Strategy A: Hillstate First | Strategy B: Jungang Heights First |
+|---|---:|---:|
+| Hillstate Estimated Tax | KRW 1,372,591,000 | KRW 691,716,300 |
+| Jungang Heights Estimated Tax | KRW 391,314,600 | KRW 1,229,591,000 |
+| **Combined Calculator-Estimated Tax** | **KRW 1,763,905,600** | **KRW 1,921,307,300** |
+
+### 2. Difference Between Strategies
+
+Based on the current calculator outputs, Strategy B has a combined estimated tax that is KRW 157,401,700 higher than Strategy A.
+
+This is an arithmetic comparison of the displayed estimates only. The results use different tax-treatment assumptions and have not been independently verified, so the difference should not be interpreted as a reliable estimate of the tax savings from choosing Strategy A.
+
+### 3. Preliminary Observations
+
+- Strategy A has the lower combined calculator-estimated tax in the current set of results.
+- Strategy B produces a different estimate because the calculator applies different tax treatment to the properties in the two scenarios.
+- The comparison is not yet conclusive because the assumptions have not been standardized and verified.
+
+### 4. Conclusion
+
+The preliminary calculator outputs show a difference between the two property sale sequences. However, no final recommendation can be made until both strategies are recalculated using consistent assumptions and the applicable tax rules are verified for each sale.
+
+The next step is to standardize the tax treatment, deduction eligibility, and hypothetical sale dates for both strategies, then compare combined estimated tax and after-tax proceeds.
+
+### 5. Status
+
+**Preliminary comparison completed. Final conclusion pending verification.**
