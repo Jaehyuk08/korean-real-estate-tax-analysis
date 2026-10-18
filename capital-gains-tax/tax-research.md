@@ -50,15 +50,15 @@ For each legal question:
 
 | Research Item | Status |
 |---|---|
-| Official capital gains tax calculation guide located | Complete |
-| Income Tax Act, Article 104 located | Complete |
-| Applicable rules for each sale date verified | Pending |
+| Official National Tax Service calculation guide located | Complete |
+| Capital gains tax calculation method reviewed | Pending |
+| Applicable rules for each hypothetical sale date verified | Pending |
 | Multi-home surcharge eligibility verified | Pending |
 | Long-term holding deduction eligibility verified | Pending |
 | Calculator outputs independently checked | Pending |
 
 ## 6. Important Limitation
 
-The existence of two properties in a regulated area does not, by itself, establish the final tax liability. The applicable law, household property count, sale date, deduction eligibility, and other relevant facts must be verified.
+Finding an official tax guide does not mean that the tax calculations have been verified.
 
-This research is for educational and portfolio purposes only and is not professional tax advice.
+The applicable rules, deductions, and tax rates must be reviewed for each hypothetical sale scenario before the results can be considered reliable.
