@@ -1,70 +1,40 @@
-# Korean Real Estate Capital Gains Tax Analysis
+# Korean Real Estate Sale Sequencing & Tax Analysis
 
-## 1. Project Overview
+## Overview
 
-This project explores how capital gains tax on Korean residential real estate can be estimated under different sale scenarios.
+This independent project examines how the order of selling two residential properties in South Korea may affect capital gains tax and combined after-tax proceeds.
 
-The project is based on an online tax calculator and independent research into official Korean tax regulations. The goal is to understand the calculation process, identify relevant tax rules, and evaluate how different assumptions may affect the estimated tax liability.
+The project compares two hypothetical strategies:
 
-## 2. Case Study
+- **Strategy A:** Sell Hillstate first, then Jungang Heights.
+- **Strategy B:** Sell Jungang Heights first, then Hillstate.
 
-### Property Information
+## Objectives
 
-- Property type: Condominium
-- Acquisition date: January 30, 2018
-- Hypothetical sale date: October 18, 2026
-- Acquisition price: KRW 1,360,000,000
-- Hypothetical sale price: KRW 4,000,000,000
-- Property ownership: Two or more residential properties
+- Estimate capital gains tax for each property sale.
+- Research applicable Korean tax rules and exemptions.
+- Compare the estimated tax under both sale sequences.
+- Evaluate combined after-tax proceeds.
+- Document assumptions, sources, and limitations.
 
-### Preliminary Calculation
+## Methodology
 
-Sale price: KRW 4,000,000,000
+1. Collect property acquisition details and estimated sale prices.
+2. Review official Korean tax guidance applicable to each sale date.
+3. Calculate the estimated tax for each transaction.
+4. Compare both sale sequences.
+5. Summarize findings and identify key uncertainties.
 
-Acquisition price: KRW 1,360,000,000
-
-**Preliminary price difference: KRW 2,640,000,000**
-
-This amount is before deductible expenses, applicable deductions, and other tax adjustments. It is not the final taxable gain.
-
-## 3. Research Objectives
-
-- Understand the Korean capital gains tax calculation process.
-- Identify potentially deductible transaction expenses.
-- Research applicable tax rules for multiple-property owners.
-- Examine the relevance of ownership period and property location.
-- Calculate the estimated tax using official guidance.
-- Compare results under different hypothetical sale prices.
-
-## 4. Methodology
-
-1. Review official guidance from the National Tax Service of Korea.
-2. Identify the information required for the tax calculation.
-3. Research the tax rules applicable to the hypothetical sale date.
-4. Perform the calculation and document each step.
-5. Review assumptions, limitations, and possible sources of error.
-
-## 5. Tools and Sources
+## Tools
 
 - GitHub for project documentation
-- National Tax Service of Korea
-- Relevant Korean tax laws and official guidance
-- Excel for organizing inputs and calculations, if needed
+- Official Korean tax guidance
+- Excel for calculations and scenario comparison
 
-## 6. Results
-
-The tax calculation and scenario analysis are in progress.
-
-No final tax liability has been established.
-
-## 7. Limitations
-
-This is an educational research project, not professional tax advice.
-
-The sale is hypothetical. Actual tax liability may differ depending on the applicable regulations, household circumstances, property ownership, residence history, deductible expenses, and other relevant factors.
-
-No personal or confidential information will be published.
-
-## 8. Project Status
+## Status
 
 In progress.
+
+## Disclaimer
+
+This is an educational analysis, not professional tax advice. Results depend on the applicable tax rules and individual circumstances. No personal or confidential information will be published.
