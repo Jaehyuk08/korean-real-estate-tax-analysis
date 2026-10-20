@@ -18,6 +18,7 @@ The project focuses on comparing property sales, property gifting, and long-term
 
 ### 1. Capital Gains Tax Analysis
 Compare two hypothetical sale strategies: selling Hillstate first or Jungang Heights first.
+[View Strategy Comparison and Chart](capital-gains-tax/strategy-comparison.md)
 
 ### 2. Gift Tax Analysis
 Research the potential tax implications of transferring residential property to a family member.
