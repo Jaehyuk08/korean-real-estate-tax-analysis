@@ -107,6 +107,12 @@ Strategy A therefore shows an estimated tax advantage of KRW 139,175,800.
 
 This finding is based on calculator estimates and the stated scenario assumptions. Actual tax liability may differ depending on the tax rules applicable to each sale date and the taxpayer's eligibility for relevant deductions or exemptions.
 
+### Visual Comparison
+
+![Estimated Capital Gains Tax by Strategy](strategy-comparison-chart.png)
+
+*Note: These figures are preliminary tax calculator estimates and have not been independently verified.*
+
 ## 6. Limitations
 
 - Sale prices and deductible expenses are assumptions.
